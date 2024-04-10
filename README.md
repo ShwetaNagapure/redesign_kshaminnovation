@@ -1,5 +1,5 @@
-# redesign_kshaminnovation
-Ksham Innovation Web Portal Redesign
+
+# Ksham Innovation Web Portal Redesign
 ##Description:
 This repository contains the redesigned web portal for Ksham Innovation, a company dedicated to providing smart aid glasses for the deaf, mute, and blind. The redesign aims to improve user experience and showcase the innovative products and services offered by Ksham Innovation.
 
