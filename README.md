@@ -23,5 +23,8 @@ Social Media Integration: Links to social media platforms for users to follow th
     Fonts: Google Fonts
     Video Backgrounds: Provided by the company
     Images: Provided by the company and its partners
+# link:
+To visit the website click the below link:
+ https://shwetanagapure.github.io/redesign_kshaminnovation/
 # Contributors:
    NAGAPURE SHWETA 
